@@ -1,5 +1,5 @@
-public class Cteiel {
+public class Cyxuoc {
     public static void main() {
-        System.out.println("meecx");
+        System.out.println("hdwel");
     }
 }
