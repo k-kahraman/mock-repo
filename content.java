@@ -1,4 +1,5 @@
-public class Cbstmr {
+public class Cfyssu {
     public static void main() {
+        System.out.println("uitvg");
     }
 }
