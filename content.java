@@ -1,5 +1,5 @@
-public class Ccbfdh {
+public class Cgtnco {
     public static void main() {
-        System.out.println("miget");
+        System.out.println("wbnxk");
     }
 }
