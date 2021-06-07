@@ -1,5 +1,5 @@
-public class Cmcfve {
+public class Ctnybi {
     public static void main() {
-        System.out.println("thxfo");
+        System.out.println("gervn");
     }
 }
