@@ -1,5 +1,5 @@
-public class Ctnybi {
+public class Cfdaik {
     public static void main() {
-        System.out.println("gervn");
+        System.out.println("wfdhh");
     }
 }
