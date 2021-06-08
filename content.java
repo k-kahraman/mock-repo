@@ -1,5 +1,5 @@
-public class Cnfank {
+public class Cdpdcv {
     public static void main() {
-        System.out.println("sgcdd");
+        System.out.println("muevu");
     }
 }
