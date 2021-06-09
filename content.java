@@ -1,5 +1,5 @@
-public class Cbaxyb {
+public class Clutdg {
     public static void main() {
-        System.out.println("raqsy");
+        System.out.println("cxpcd");
     }
 }
