@@ -1,5 +1,5 @@
-public class Cjivbw {
+public class Cskomu {
     public static void main() {
-        System.out.println("ndbfr");
+        System.out.println("hgebw");
     }
 }
