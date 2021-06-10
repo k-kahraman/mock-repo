@@ -1,5 +1,5 @@
-public class Ccadmh {
+public class Crxvgn {
     public static void main() {
-        System.out.println("wqcsb");
+        System.out.println("kpids");
     }
 }
