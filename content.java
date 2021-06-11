@@ -1,5 +1,5 @@
-public class Crxfii {
+public class Cykgta {
     public static void main() {
-        System.out.println("imwgr");
+        System.out.println("tigoc");
     }
 }
