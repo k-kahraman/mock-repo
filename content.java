@@ -1,5 +1,5 @@
-public class Cespcn {
+public class Crxfii {
     public static void main() {
-        System.out.println("ybyya");
+        System.out.println("imwgr");
     }
 }
