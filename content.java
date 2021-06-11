@@ -1,5 +1,5 @@
-public class Cykgta {
+public class Coherj {
     public static void main() {
-        System.out.println("tigoc");
+        System.out.println("lvirt");
     }
 }
