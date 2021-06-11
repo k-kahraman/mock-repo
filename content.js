@@ -1,1 +1,1 @@
-console.log("ckwwj")
+console.log("qqjad")
