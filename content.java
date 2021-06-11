@@ -1,5 +1,5 @@
-public class Cfgaog {
+public class Cfpfim {
     public static void main() {
-        System.out.println("xaole");
+        System.out.println("ybril");
     }
 }
