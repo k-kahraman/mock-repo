@@ -1,5 +1,5 @@
-public class Cglwbu {
+public class Cbikhi {
     public static void main() {
-        System.out.println("fegmv");
+        System.out.println("rfspm");
     }
 }
