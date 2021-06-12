@@ -1,1 +1,1 @@
-console.log("ewaqx")
+console.log("fasku")
