@@ -1,5 +1,5 @@
-public class Cfkuni {
+public class Crqopq {
     public static void main() {
-        System.out.println("mylhf");
+        System.out.println("qcqxl");
     }
 }
