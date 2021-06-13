@@ -1,5 +1,5 @@
-public class Cbikhi {
+public class Cwlmop {
     public static void main() {
-        System.out.println("rfspm");
+        System.out.println("wbbqo");
     }
 }
