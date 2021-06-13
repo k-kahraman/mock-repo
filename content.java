@@ -1,5 +1,5 @@
-public class Cepgkm {
+public class Cvuddt {
     public static void main() {
-        System.out.println("kvjla");
+        System.out.println("lcnoc");
     }
 }
