@@ -1,5 +1,5 @@
-public class Cmlrmg {
+public class Cipgsj {
     public static void main() {
-        System.out.println("faejm");
+        System.out.println("yooir");
     }
 }
