@@ -1,5 +1,5 @@
-public class Cvuddt {
+public class Cnwypt {
     public static void main() {
-        System.out.println("lcnoc");
+        System.out.println("qowef");
     }
 }
