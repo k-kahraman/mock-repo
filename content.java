@@ -1,5 +1,5 @@
-public class Cnwypt {
+public class Ckliqf {
     public static void main() {
-        System.out.println("qowef");
+        System.out.println("dyxxy");
     }
 }
