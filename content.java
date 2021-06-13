@@ -1,5 +1,5 @@
-public class Coherj {
+public class Cmlrmg {
     public static void main() {
-        System.out.println("lvirt");
+        System.out.println("faejm");
     }
 }
