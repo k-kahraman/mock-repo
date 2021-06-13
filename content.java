@@ -1,5 +1,5 @@
-public class Cwlmop {
+public class Cfkuni {
     public static void main() {
-        System.out.println("wbbqo");
+        System.out.println("mylhf");
     }
 }
