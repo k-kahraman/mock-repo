@@ -1,5 +1,5 @@
-public class Cvwmdy {
+public class Cbavgb {
     public static void main() {
-        System.out.println("nyvco");
+        System.out.println("wrfgs");
     }
 }
