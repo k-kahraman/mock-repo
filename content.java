@@ -1,5 +1,5 @@
-public class Cyuywt {
+public class Cowaup {
     public static void main() {
-        System.out.println("ormxe");
+        System.out.println("rvydj");
     }
 }
