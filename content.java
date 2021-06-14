@@ -1,5 +1,5 @@
-public class Cbavgb {
+public class Ccdmia {
     public static void main() {
-        System.out.println("wrfgs");
+        System.out.println("hqjjk");
     }
 }
