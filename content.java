@@ -1,5 +1,5 @@
-public class Cowaup {
+public class Cqtocx {
     public static void main() {
-        System.out.println("rvydj");
+        System.out.println("shjlq");
     }
 }
