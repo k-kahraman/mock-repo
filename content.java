@@ -1,5 +1,5 @@
-public class Cdkles {
+public class Cvwmdy {
     public static void main() {
-        System.out.println("qfcpk");
+        System.out.println("nyvco");
     }
 }
