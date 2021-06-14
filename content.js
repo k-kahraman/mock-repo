@@ -1,1 +1,1 @@
-console.log("kekbs")
+console.log("umoty")
