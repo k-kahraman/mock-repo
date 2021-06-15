@@ -1,5 +1,5 @@
-public class Cmujat {
+public class Cjtxir {
     public static void main() {
-        System.out.println("jyumf");
+        System.out.println("cespl");
     }
 }
