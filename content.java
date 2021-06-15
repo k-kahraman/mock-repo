@@ -1,5 +1,5 @@
-public class Ccdmia {
+public class Cofery {
     public static void main() {
-        System.out.println("hqjjk");
+        System.out.println("hpmmr");
     }
 }
