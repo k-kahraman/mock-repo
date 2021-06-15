@@ -1,5 +1,5 @@
-public class Cdluvl {
+public class Cfxuai {
     public static void main() {
-        System.out.println("hxepn");
+        System.out.println("plhsu");
     }
 }
