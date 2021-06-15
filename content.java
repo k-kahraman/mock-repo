@@ -1,5 +1,5 @@
-public class Cmykgg {
+public class Cbafia {
     public static void main() {
-        System.out.println("ftlmy");
+        System.out.println("rtyuy");
     }
 }
