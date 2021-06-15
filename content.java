@@ -1,5 +1,5 @@
-public class Ctvxrd {
+public class Crhhmy {
     public static void main() {
-        System.out.println("frtku");
+        System.out.println("biphd");
     }
 }
