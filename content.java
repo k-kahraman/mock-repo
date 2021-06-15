@@ -1,5 +1,5 @@
-public class Cnasyl {
+public class Cuvmba {
     public static void main() {
-        System.out.println("bxajv");
+        System.out.println("wvfvg");
     }
 }
