@@ -1,5 +1,5 @@
-public class Cocheg {
+public class Cnasyl {
     public static void main() {
-        System.out.println("rpmnw");
+        System.out.println("bxajv");
     }
 }
