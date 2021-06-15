@@ -1,5 +1,5 @@
-public class Cjhkgt {
+public class Crfqac {
     public static void main() {
-        System.out.println("ensjc");
+        System.out.println("hghmu");
     }
 }
