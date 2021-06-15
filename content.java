@@ -1,5 +1,5 @@
-public class Cwysbf {
+public class Cnwamg {
     public static void main() {
-        System.out.println("jmjpo");
+        System.out.println("upihg");
     }
 }
