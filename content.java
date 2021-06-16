@@ -1,5 +1,5 @@
-public class Chwlnt {
+public class Clanng {
     public static void main() {
-        System.out.println("bousv");
+        System.out.println("fsiqp");
     }
 }
