@@ -1,5 +1,5 @@
-public class Clanng {
+public class Ctfokl {
     public static void main() {
-        System.out.println("fsiqp");
+        System.out.println("firwm");
     }
 }
