@@ -1,5 +1,5 @@
-public class Cuvmba {
+public class Cakbps {
     public static void main() {
-        System.out.println("wvfvg");
+        System.out.println("rtlke");
     }
 }
