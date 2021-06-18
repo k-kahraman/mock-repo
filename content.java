@@ -1,5 +1,5 @@
-public class Cqviou {
+public class Cipmor {
     public static void main() {
-        System.out.println("cxouj");
+        System.out.println("lfqxw");
     }
 }
