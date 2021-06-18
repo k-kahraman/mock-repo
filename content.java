@@ -1,5 +1,5 @@
-public class Coaclv {
+public class Cfgbin {
     public static void main() {
-        System.out.println("gpdre");
+        System.out.println("xpogx");
     }
 }
