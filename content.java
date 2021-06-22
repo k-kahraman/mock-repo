@@ -1,5 +1,5 @@
-public class Clqcjh {
+public class Cqulwk {
     public static void main() {
-        System.out.println("ocnws");
+        System.out.println("ivavu");
     }
 }
