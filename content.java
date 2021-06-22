@@ -1,5 +1,5 @@
-public class Cfgbin {
+public class Cictvw {
     public static void main() {
-        System.out.println("xpogx");
+        System.out.println("glqpv");
     }
 }
