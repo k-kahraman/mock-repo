@@ -1,5 +1,5 @@
-public class Cxjynd {
+public class Cteiel {
     public static void main() {
-        System.out.println("xodpy");
+        System.out.println("meecx");
     }
 }
