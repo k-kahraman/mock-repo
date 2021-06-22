@@ -1,5 +1,5 @@
-public class Cuffqm {
+public class Crfeku {
     public static void main() {
-        System.out.println("ymyry");
+        System.out.println("rpvei");
     }
 }
