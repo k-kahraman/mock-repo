@@ -1,5 +1,5 @@
-public class Cqulwk {
+public class Cxjynd {
     public static void main() {
-        System.out.println("ivavu");
+        System.out.println("xodpy");
     }
 }
