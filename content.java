@@ -1,5 +1,5 @@
-public class Ctydsi {
+public class Cnctih {
     public static void main() {
-        System.out.println("xvclw");
+        System.out.println("tncpp");
     }
 }
