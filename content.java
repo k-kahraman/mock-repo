@@ -1,5 +1,5 @@
-public class Cibvtn {
+public class Cuqnpj {
     public static void main() {
-        System.out.println("tkhaj");
+        System.out.println("ylmax");
     }
 }
