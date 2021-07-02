@@ -1,5 +1,5 @@
-public class Cswcoo {
+public class Cgyens {
     public static void main() {
-        System.out.println("fwsqr");
+        System.out.println("umdte");
     }
 }
