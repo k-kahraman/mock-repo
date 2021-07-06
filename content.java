@@ -1,5 +1,5 @@
-public class Cklhnl {
+public class Crlnti {
     public static void main() {
-        System.out.println("niaqy");
+        System.out.println("msocx");
     }
 }
