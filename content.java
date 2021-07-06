@@ -1,5 +1,5 @@
-public class Crlnti {
+public class Cwktva {
     public static void main() {
-        System.out.println("msocx");
+        System.out.println("bbtgb");
     }
 }
