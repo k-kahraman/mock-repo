@@ -1,5 +1,5 @@
-public class Cjgktc {
+public class Crvutg {
     public static void main() {
-        System.out.println("udowk");
+        System.out.println("ydasa");
     }
 }
