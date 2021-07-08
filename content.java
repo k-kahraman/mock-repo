@@ -1,5 +1,5 @@
-public class Cylvpa {
+public class Cpskjf {
     public static void main() {
-        System.out.println("ncxsq");
+        System.out.println("ohyvd");
     }
 }
