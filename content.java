@@ -1,5 +1,5 @@
-public class Cpskjf {
+public class Cioiso {
     public static void main() {
-        System.out.println("ohyvd");
+        System.out.println("ecfus");
     }
 }
