@@ -1,2 +1,1 @@
-console.log("sedqk")
-console.log("woxjt")
+console.log("imsgn")
