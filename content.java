@@ -1,6 +1,6 @@
 public class Cioiso {
     public static void main() {
         System.out.println("ecfus");
-        System.out.println("ctwug");
+        System.out.println("iqqrm");
     }
 }
