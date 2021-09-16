@@ -9,6 +9,5 @@ public class Cioiso {
         System.out.println("glfba");
         System.out.println("imhfc");
         System.out.println("ptmnc");
-        System.out.println("pgxyw");
     }
 }
