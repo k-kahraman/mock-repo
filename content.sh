@@ -1,2 +1,1 @@
 echo "yjdla"
-echo "kkbqs"
